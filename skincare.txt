@@ -6,3 +6,4 @@ serum
 moisturizer
 sunscreen
 exfoliator
+mask
