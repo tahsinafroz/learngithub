@@ -5,3 +5,4 @@ toner
 serum
 moisturizer
 sunscreen
+exfoliator
