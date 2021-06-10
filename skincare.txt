@@ -4,6 +4,6 @@ cleanser
 toner
 serum
 moisturizer
-sunscreen
+sunscreen spf 50
 exfoliator
 mask
